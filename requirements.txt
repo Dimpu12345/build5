@@ -1,0 +1,4 @@
+Python
+Fastapi
+uvicorn
+pytest
